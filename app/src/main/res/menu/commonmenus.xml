@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuAdd"
+        android:title="Addition"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnuSub"
+        android:title="Subtract"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnuMul"
+        android:title="Multiplication"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnuDiv"
+        android:title="Division"
+        app:showAsAction="never" />
+</menu>
